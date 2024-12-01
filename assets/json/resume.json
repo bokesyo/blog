@@ -1,0 +1,70 @@
+{
+  "work": [
+    {
+      "name": "The Brain Cognition and Brain Disease Institute, Chinese Academy of Sciences",
+      "position": "Research Intern",
+      "startDate": "2023-4",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "Natural Language Processing Lab, Tsinghua University",
+      "position": "Research Intern",
+      "startDate": "2022-6",
+      "endDate": "",
+      "summary": ""
+    },
+    {
+      "name": "Zealen Technology (Startup)",
+      "position": "Research Intern",
+      "startDate": "2022-5",
+      "endDate": "2022-8",
+      "summary": ""
+    },
+    {
+      "name": "Shenzhen Research Institute of Big Data",
+      "position": "Software Developer",
+      "startDate": "2021-1",
+      "endDate": "2023-3",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Chinese University of Hong Kong, Shenzhen",
+      "area": "Statistics, Data Science Stream",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-9",
+      "endDate": "2024-5",
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Medieval Chinese",
+      "fluency": "A little"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Python",
+      "fluency": "Write everyday"
+    },
+    {
+      "language": "C++",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "CUDA",
+      "fluency": "Fluent"
+    }
+  ],
+  "projects": []
+}

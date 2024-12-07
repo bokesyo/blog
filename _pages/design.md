@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /design/
-title: design
+title: graphic design
 nav: true
 nav_order: 4
 ---
@@ -19,11 +19,6 @@ nav_order: 4
     <img loading="lazy" src="/assets/design/xj.jpeg"/>
     <figcaption>作业 (2020)</figcaption>
   </figure>
-
-  <!-- <figure style="min-height: 400px;">
-    <img loading="lazy" src="/assets/design/uac-csyj.jpeg"/>
-    <figcaption>春山雅聚 (2020)</figcaption>
-  </figure> -->
 
   <figure style="min-height: 400px;">
     <img loading="lazy" src="/assets/design/fcnd-1.jpg"/>
